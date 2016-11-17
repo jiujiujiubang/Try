@@ -47,8 +47,8 @@ body .navbar .nav-wrap-left a span {
 body .navbar .nav-wrap-left a span .jian {
   display: block;
   position: absolute;
-  left: 20px;
-  top: -4px;
+  left: 30px;
+  top: -5px;
 }
 body .navbar .box-search {
   height: .64rem;
